@@ -13,7 +13,7 @@ I am a Computer Science and Data Science student exploring multiple technologies
 
 ---
 
-## Technical Skills
+## Technical Skills + Exploration
 
 | Category              | Skills                                                                                            |
 | --------------------- | ------------------------------------------------------------------------------------------------- |
