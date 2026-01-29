@@ -1,8 +1,8 @@
-# Hi 👋 I'm BnonymousLearner
+# Hi 👋 I'm BnonymousLearner2623
 
-🎓 **BSc Computer Science** @ CHM Ulhasnagar
-🎓 **BS in Data Science & Applications** @ IIT Madras
-📍 India
+🎓 **BSc Computer Science** @ CHM Ulhasnagar<br>
+🎓 **BS in Data Science & Applications** @ IIT Madras<br>
+📍 India<br>
 💻 GitHub Username: **bnonymouslearner2623**
 
 ---
